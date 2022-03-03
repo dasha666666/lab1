@@ -52,25 +52,34 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -82,6 +91,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Безымянный.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\1c9751f00cd6ae1ed5612f8cf60d799d--picasa-web-album.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\4a0a049f-fcac-5881-a229-14e1773ffebf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\74c4a87c744c0fddb394d8e74a685ba5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\5.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

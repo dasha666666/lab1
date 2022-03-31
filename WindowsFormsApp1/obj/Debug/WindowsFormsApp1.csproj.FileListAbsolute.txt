@@ -65,3 +65,7 @@ C:\Users\kirsa\OneDrive\Документы\GitHub\dari1111\WindowsFormsApp1\obj\
 C:\Users\kirsa\OneDrive\Документы\GitHub\dari1111\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
 C:\Users\kirsa\OneDrive\Документы\GitHub\dari1111\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 C:\Users\kirsa\OneDrive\Документы\GitHub\dari1111\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources

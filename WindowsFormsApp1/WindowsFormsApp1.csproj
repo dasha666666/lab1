@@ -160,5 +160,8 @@
   <ItemGroup>
     <None Include="Pictures\ben.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1626946879_28-kartinkin-com-p-basketbolnoe-pole-tekstura-krasivo-331.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

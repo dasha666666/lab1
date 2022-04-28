@@ -33,6 +33,8 @@ namespace WindowsFormsApp1
 
             teams[4] = new Team();
             teams[4].Set("5", "Charlotte Hornets", "CHA", "5.jpg");
+
+            
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -65,15 +67,15 @@ namespace WindowsFormsApp1
 
         private void Form4_Load(object sender, EventArgs e)
         {
-            label35.Text = teams[0].Name;
-            label31.Text = teams[1].Name;
-            label30.Text = teams[2].Name;
-            label25.Text = teams[3].Name;
-            label24.Text = teams[4].Name;
-            Eastern.Controls["textBox16"].Controls["textBox13"].Controls["label" + 35].Text = teams[0].Name;
+         
         }
 
         private void textBox16_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox8_TextChanged(object sender, EventArgs e)
         {
 
         }

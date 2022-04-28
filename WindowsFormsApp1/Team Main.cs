@@ -12,8 +12,11 @@ namespace WindowsFormsApp1
 {
     public partial class Team_Main : Form
     {
+
         public Team_Main()
         {
+
+
             InitializeComponent();
         }
 
@@ -28,6 +31,11 @@ namespace WindowsFormsApp1
         }
 
         private void tableLayoutPanel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label35_Click(object sender, EventArgs e)
         {
 
         }

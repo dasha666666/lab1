@@ -354,6 +354,7 @@
             this.label35.Size = new System.Drawing.Size(80, 15);
             this.label35.TabIndex = 340;
             this.label35.Text = "Teams name";
+            this.label35.Click += new System.EventHandler(this.label35_Click);
             // 
             // textBox13
             // 

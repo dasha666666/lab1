@@ -45,7 +45,6 @@ C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsForm
 C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
 C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
 C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
-C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Main.resources
 C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
 C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
@@ -69,3 +68,4 @@ C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\bin\Debug\WindowsForm
 C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\Student\Desktop\daria laktionova\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Team_Detail.resources

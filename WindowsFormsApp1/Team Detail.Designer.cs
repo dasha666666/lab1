@@ -36,49 +36,6 @@
             this.textBox8 = new System.Windows.Forms.TextBox();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.textBox14 = new System.Windows.Forms.TextBox();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.textBox16 = new System.Windows.Forms.TextBox();
-            this.textBox17 = new System.Windows.Forms.TextBox();
-            this.textBox18 = new System.Windows.Forms.TextBox();
-            this.textBox19 = new System.Windows.Forms.TextBox();
-            this.textBox20 = new System.Windows.Forms.TextBox();
-            this.textBox21 = new System.Windows.Forms.TextBox();
-            this.textBox22 = new System.Windows.Forms.TextBox();
-            this.textBox23 = new System.Windows.Forms.TextBox();
-            this.textBox24 = new System.Windows.Forms.TextBox();
-            this.textBox25 = new System.Windows.Forms.TextBox();
-            this.textBox26 = new System.Windows.Forms.TextBox();
-            this.textBox27 = new System.Windows.Forms.TextBox();
-            this.textBox28 = new System.Windows.Forms.TextBox();
-            this.textBox29 = new System.Windows.Forms.TextBox();
-            this.textBox30 = new System.Windows.Forms.TextBox();
-            this.textBox31 = new System.Windows.Forms.TextBox();
-            this.textBox32 = new System.Windows.Forms.TextBox();
-            this.textBox33 = new System.Windows.Forms.TextBox();
-            this.textBox34 = new System.Windows.Forms.TextBox();
-            this.textBox35 = new System.Windows.Forms.TextBox();
-            this.textBox36 = new System.Windows.Forms.TextBox();
-            this.textBox37 = new System.Windows.Forms.TextBox();
-            this.textBox38 = new System.Windows.Forms.TextBox();
-            this.textBox39 = new System.Windows.Forms.TextBox();
-            this.textBox40 = new System.Windows.Forms.TextBox();
-            this.textBox41 = new System.Windows.Forms.TextBox();
-            this.textBox42 = new System.Windows.Forms.TextBox();
             this.textBox43 = new System.Windows.Forms.TextBox();
             this.textBox44 = new System.Windows.Forms.TextBox();
             this.textBox45 = new System.Windows.Forms.TextBox();
@@ -86,6 +43,48 @@
             this.textBox47 = new System.Windows.Forms.TextBox();
             this.textBox48 = new System.Windows.Forms.TextBox();
             this.textBox49 = new System.Windows.Forms.TextBox();
+            this.textBox36 = new System.Windows.Forms.TextBox();
+            this.textBox37 = new System.Windows.Forms.TextBox();
+            this.textBox38 = new System.Windows.Forms.TextBox();
+            this.textBox39 = new System.Windows.Forms.TextBox();
+            this.textBox40 = new System.Windows.Forms.TextBox();
+            this.textBox41 = new System.Windows.Forms.TextBox();
+            this.textBox42 = new System.Windows.Forms.TextBox();
+            this.textBox29 = new System.Windows.Forms.TextBox();
+            this.textBox30 = new System.Windows.Forms.TextBox();
+            this.textBox31 = new System.Windows.Forms.TextBox();
+            this.textBox32 = new System.Windows.Forms.TextBox();
+            this.textBox33 = new System.Windows.Forms.TextBox();
+            this.textBox34 = new System.Windows.Forms.TextBox();
+            this.textBox35 = new System.Windows.Forms.TextBox();
+            this.textBox22 = new System.Windows.Forms.TextBox();
+            this.textBox23 = new System.Windows.Forms.TextBox();
+            this.textBox24 = new System.Windows.Forms.TextBox();
+            this.textBox25 = new System.Windows.Forms.TextBox();
+            this.textBox26 = new System.Windows.Forms.TextBox();
+            this.textBox27 = new System.Windows.Forms.TextBox();
+            this.textBox28 = new System.Windows.Forms.TextBox();
+            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.textBox16 = new System.Windows.Forms.TextBox();
+            this.textBox17 = new System.Windows.Forms.TextBox();
+            this.textBox18 = new System.Windows.Forms.TextBox();
+            this.textBox19 = new System.Windows.Forms.TextBox();
+            this.textBox20 = new System.Windows.Forms.TextBox();
+            this.textBox21 = new System.Windows.Forms.TextBox();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.textBox13 = new System.Windows.Forms.TextBox();
+            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.textBox50 = new System.Windows.Forms.TextBox();
             this.textBox51 = new System.Windows.Forms.TextBox();
             this.textBox52 = new System.Windows.Forms.TextBox();
@@ -135,6 +134,7 @@
             this.textBox96 = new System.Windows.Forms.TextBox();
             this.textBox97 = new System.Windows.Forms.TextBox();
             this.textBox98 = new System.Windows.Forms.TextBox();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.tabControl1.SuspendLayout();
@@ -278,139 +278,333 @@
             this.tabPage1.UseVisualStyleBackColor = true;
             this.tabPage1.Click += new System.EventHandler(this.tabPage1_Click);
             // 
-            // tabPage2
+            // textBox43
             // 
-            this.tabPage2.Controls.Add(this.textBox50);
-            this.tabPage2.Controls.Add(this.textBox51);
-            this.tabPage2.Controls.Add(this.textBox52);
-            this.tabPage2.Controls.Add(this.textBox53);
-            this.tabPage2.Controls.Add(this.textBox54);
-            this.tabPage2.Controls.Add(this.textBox55);
-            this.tabPage2.Controls.Add(this.textBox56);
-            this.tabPage2.Controls.Add(this.textBox57);
-            this.tabPage2.Controls.Add(this.textBox58);
-            this.tabPage2.Controls.Add(this.textBox59);
-            this.tabPage2.Controls.Add(this.textBox60);
-            this.tabPage2.Controls.Add(this.textBox61);
-            this.tabPage2.Controls.Add(this.textBox62);
-            this.tabPage2.Controls.Add(this.textBox63);
-            this.tabPage2.Controls.Add(this.textBox64);
-            this.tabPage2.Controls.Add(this.textBox65);
-            this.tabPage2.Controls.Add(this.textBox66);
-            this.tabPage2.Controls.Add(this.textBox67);
-            this.tabPage2.Controls.Add(this.textBox68);
-            this.tabPage2.Controls.Add(this.textBox69);
-            this.tabPage2.Controls.Add(this.textBox70);
-            this.tabPage2.Controls.Add(this.textBox71);
-            this.tabPage2.Controls.Add(this.textBox72);
-            this.tabPage2.Controls.Add(this.textBox73);
-            this.tabPage2.Controls.Add(this.textBox74);
-            this.tabPage2.Controls.Add(this.textBox75);
-            this.tabPage2.Controls.Add(this.textBox76);
-            this.tabPage2.Controls.Add(this.textBox77);
-            this.tabPage2.Controls.Add(this.textBox78);
-            this.tabPage2.Controls.Add(this.textBox79);
-            this.tabPage2.Controls.Add(this.textBox80);
-            this.tabPage2.Controls.Add(this.textBox81);
-            this.tabPage2.Controls.Add(this.textBox82);
-            this.tabPage2.Controls.Add(this.textBox83);
-            this.tabPage2.Controls.Add(this.textBox84);
-            this.tabPage2.Controls.Add(this.textBox85);
-            this.tabPage2.Controls.Add(this.textBox86);
-            this.tabPage2.Controls.Add(this.textBox87);
-            this.tabPage2.Controls.Add(this.textBox88);
-            this.tabPage2.Controls.Add(this.textBox89);
-            this.tabPage2.Controls.Add(this.textBox90);
-            this.tabPage2.Controls.Add(this.textBox91);
-            this.tabPage2.Controls.Add(this.textBox92);
-            this.tabPage2.Controls.Add(this.textBox93);
-            this.tabPage2.Controls.Add(this.textBox94);
-            this.tabPage2.Controls.Add(this.textBox95);
-            this.tabPage2.Controls.Add(this.textBox96);
-            this.tabPage2.Controls.Add(this.textBox97);
-            this.tabPage2.Controls.Add(this.textBox98);
-            this.tabPage2.Location = new System.Drawing.Point(4, 29);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(764, 264);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "Matchups";
-            this.tabPage2.UseVisualStyleBackColor = true;
+            this.textBox43.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox43.Location = new System.Drawing.Point(650, 227);
+            this.textBox43.Multiline = true;
+            this.textBox43.Name = "textBox43";
+            this.textBox43.Size = new System.Drawing.Size(105, 31);
+            this.textBox43.TabIndex = 361;
             // 
-            // textBox1
+            // textBox44
             // 
-            this.textBox1.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox1.Location = new System.Drawing.Point(6, 43);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(103, 31);
-            this.textBox1.TabIndex = 318;
-            this.textBox1.Text = "0";
-            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox44.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox44.Location = new System.Drawing.Point(650, 191);
+            this.textBox44.Multiline = true;
+            this.textBox44.Name = "textBox44";
+            this.textBox44.Size = new System.Drawing.Size(105, 31);
+            this.textBox44.TabIndex = 364;
             // 
-            // textBox2
+            // textBox45
             // 
-            this.textBox2.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox2.Location = new System.Drawing.Point(6, 80);
-            this.textBox2.Multiline = true;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(103, 31);
-            this.textBox2.TabIndex = 319;
-            this.textBox2.Text = "7";
-            this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox45.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox45.Location = new System.Drawing.Point(650, 154);
+            this.textBox45.Multiline = true;
+            this.textBox45.Name = "textBox45";
+            this.textBox45.Size = new System.Drawing.Size(105, 31);
+            this.textBox45.TabIndex = 363;
             // 
-            // textBox3
+            // textBox46
             // 
-            this.textBox3.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox3.Location = new System.Drawing.Point(6, 117);
-            this.textBox3.Multiline = true;
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(103, 31);
-            this.textBox3.TabIndex = 320;
-            this.textBox3.Text = "30";
-            this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox46.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox46.Location = new System.Drawing.Point(650, 117);
+            this.textBox46.Multiline = true;
+            this.textBox46.Name = "textBox46";
+            this.textBox46.Size = new System.Drawing.Size(105, 31);
+            this.textBox46.TabIndex = 362;
             // 
-            // textBox4
+            // textBox47
             // 
-            this.textBox4.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox4.Location = new System.Drawing.Point(6, 154);
-            this.textBox4.Multiline = true;
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(103, 31);
-            this.textBox4.TabIndex = 321;
-            this.textBox4.Text = "42";
-            this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox47.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox47.Location = new System.Drawing.Point(650, 80);
+            this.textBox47.Multiline = true;
+            this.textBox47.Name = "textBox47";
+            this.textBox47.Size = new System.Drawing.Size(105, 31);
+            this.textBox47.TabIndex = 360;
             // 
-            // textBox5
+            // textBox48
             // 
-            this.textBox5.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox5.Location = new System.Drawing.Point(6, 191);
-            this.textBox5.Multiline = true;
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(103, 31);
-            this.textBox5.TabIndex = 322;
-            this.textBox5.Text = "99";
-            this.textBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox48.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox48.Location = new System.Drawing.Point(650, 43);
+            this.textBox48.Multiline = true;
+            this.textBox48.Name = "textBox48";
+            this.textBox48.Size = new System.Drawing.Size(105, 31);
+            this.textBox48.TabIndex = 359;
             // 
-            // textBox6
+            // textBox49
             // 
-            this.textBox6.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox6.Location = new System.Drawing.Point(6, 227);
-            this.textBox6.Multiline = true;
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(103, 31);
-            this.textBox6.TabIndex = 320;
-            this.textBox6.Text = "........";
-            this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox49.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox49.Location = new System.Drawing.Point(650, 6);
+            this.textBox49.Multiline = true;
+            this.textBox49.Name = "textBox49";
+            this.textBox49.Size = new System.Drawing.Size(105, 31);
+            this.textBox49.TabIndex = 358;
             // 
-            // tabPage3
+            // textBox36
             // 
-            this.tabPage3.Location = new System.Drawing.Point(4, 29);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(718, 264);
-            this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "Lineup";
-            this.tabPage3.UseVisualStyleBackColor = true;
+            this.textBox36.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox36.Location = new System.Drawing.Point(548, 227);
+            this.textBox36.Multiline = true;
+            this.textBox36.Name = "textBox36";
+            this.textBox36.Size = new System.Drawing.Size(96, 31);
+            this.textBox36.TabIndex = 354;
+            // 
+            // textBox37
+            // 
+            this.textBox37.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox37.Location = new System.Drawing.Point(548, 191);
+            this.textBox37.Multiline = true;
+            this.textBox37.Name = "textBox37";
+            this.textBox37.Size = new System.Drawing.Size(96, 31);
+            this.textBox37.TabIndex = 357;
+            // 
+            // textBox38
+            // 
+            this.textBox38.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox38.Location = new System.Drawing.Point(548, 154);
+            this.textBox38.Multiline = true;
+            this.textBox38.Name = "textBox38";
+            this.textBox38.Size = new System.Drawing.Size(96, 31);
+            this.textBox38.TabIndex = 356;
+            // 
+            // textBox39
+            // 
+            this.textBox39.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox39.Location = new System.Drawing.Point(548, 117);
+            this.textBox39.Multiline = true;
+            this.textBox39.Name = "textBox39";
+            this.textBox39.Size = new System.Drawing.Size(96, 31);
+            this.textBox39.TabIndex = 355;
+            // 
+            // textBox40
+            // 
+            this.textBox40.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox40.Location = new System.Drawing.Point(548, 80);
+            this.textBox40.Multiline = true;
+            this.textBox40.Name = "textBox40";
+            this.textBox40.Size = new System.Drawing.Size(96, 31);
+            this.textBox40.TabIndex = 353;
+            // 
+            // textBox41
+            // 
+            this.textBox41.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox41.Location = new System.Drawing.Point(548, 43);
+            this.textBox41.Multiline = true;
+            this.textBox41.Name = "textBox41";
+            this.textBox41.Size = new System.Drawing.Size(96, 31);
+            this.textBox41.TabIndex = 352;
+            // 
+            // textBox42
+            // 
+            this.textBox42.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox42.Location = new System.Drawing.Point(548, 6);
+            this.textBox42.Multiline = true;
+            this.textBox42.Name = "textBox42";
+            this.textBox42.Size = new System.Drawing.Size(96, 31);
+            this.textBox42.TabIndex = 351;
+            // 
+            // textBox29
+            // 
+            this.textBox29.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox29.Location = new System.Drawing.Point(421, 227);
+            this.textBox29.Multiline = true;
+            this.textBox29.Name = "textBox29";
+            this.textBox29.Size = new System.Drawing.Size(121, 31);
+            this.textBox29.TabIndex = 347;
+            // 
+            // textBox30
+            // 
+            this.textBox30.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox30.Location = new System.Drawing.Point(421, 191);
+            this.textBox30.Multiline = true;
+            this.textBox30.Name = "textBox30";
+            this.textBox30.Size = new System.Drawing.Size(121, 31);
+            this.textBox30.TabIndex = 350;
+            // 
+            // textBox31
+            // 
+            this.textBox31.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox31.Location = new System.Drawing.Point(421, 154);
+            this.textBox31.Multiline = true;
+            this.textBox31.Name = "textBox31";
+            this.textBox31.Size = new System.Drawing.Size(121, 31);
+            this.textBox31.TabIndex = 349;
+            // 
+            // textBox32
+            // 
+            this.textBox32.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox32.Location = new System.Drawing.Point(421, 117);
+            this.textBox32.Multiline = true;
+            this.textBox32.Name = "textBox32";
+            this.textBox32.Size = new System.Drawing.Size(121, 31);
+            this.textBox32.TabIndex = 348;
+            // 
+            // textBox33
+            // 
+            this.textBox33.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox33.Location = new System.Drawing.Point(421, 80);
+            this.textBox33.Multiline = true;
+            this.textBox33.Name = "textBox33";
+            this.textBox33.Size = new System.Drawing.Size(121, 31);
+            this.textBox33.TabIndex = 346;
+            // 
+            // textBox34
+            // 
+            this.textBox34.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox34.Location = new System.Drawing.Point(421, 43);
+            this.textBox34.Multiline = true;
+            this.textBox34.Name = "textBox34";
+            this.textBox34.Size = new System.Drawing.Size(121, 31);
+            this.textBox34.TabIndex = 345;
+            // 
+            // textBox35
+            // 
+            this.textBox35.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox35.Location = new System.Drawing.Point(421, 6);
+            this.textBox35.Multiline = true;
+            this.textBox35.Name = "textBox35";
+            this.textBox35.Size = new System.Drawing.Size(121, 31);
+            this.textBox35.TabIndex = 344;
+            // 
+            // textBox22
+            // 
+            this.textBox22.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox22.Location = new System.Drawing.Point(337, 227);
+            this.textBox22.Multiline = true;
+            this.textBox22.Name = "textBox22";
+            this.textBox22.Size = new System.Drawing.Size(78, 31);
+            this.textBox22.TabIndex = 340;
+            // 
+            // textBox23
+            // 
+            this.textBox23.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox23.Location = new System.Drawing.Point(337, 191);
+            this.textBox23.Multiline = true;
+            this.textBox23.Name = "textBox23";
+            this.textBox23.Size = new System.Drawing.Size(78, 31);
+            this.textBox23.TabIndex = 343;
+            // 
+            // textBox24
+            // 
+            this.textBox24.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox24.Location = new System.Drawing.Point(337, 154);
+            this.textBox24.Multiline = true;
+            this.textBox24.Name = "textBox24";
+            this.textBox24.Size = new System.Drawing.Size(78, 31);
+            this.textBox24.TabIndex = 342;
+            // 
+            // textBox25
+            // 
+            this.textBox25.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox25.Location = new System.Drawing.Point(337, 117);
+            this.textBox25.Multiline = true;
+            this.textBox25.Name = "textBox25";
+            this.textBox25.Size = new System.Drawing.Size(78, 31);
+            this.textBox25.TabIndex = 341;
+            // 
+            // textBox26
+            // 
+            this.textBox26.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox26.Location = new System.Drawing.Point(337, 80);
+            this.textBox26.Multiline = true;
+            this.textBox26.Name = "textBox26";
+            this.textBox26.Size = new System.Drawing.Size(78, 31);
+            this.textBox26.TabIndex = 339;
+            // 
+            // textBox27
+            // 
+            this.textBox27.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox27.Location = new System.Drawing.Point(337, 43);
+            this.textBox27.Multiline = true;
+            this.textBox27.Name = "textBox27";
+            this.textBox27.Size = new System.Drawing.Size(78, 31);
+            this.textBox27.TabIndex = 338;
+            // 
+            // textBox28
+            // 
+            this.textBox28.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox28.Location = new System.Drawing.Point(337, 6);
+            this.textBox28.Multiline = true;
+            this.textBox28.Name = "textBox28";
+            this.textBox28.Size = new System.Drawing.Size(78, 31);
+            this.textBox28.TabIndex = 337;
+            this.textBox28.TextChanged += new System.EventHandler(this.textBox28_TextChanged);
+            // 
+            // textBox15
+            // 
+            this.textBox15.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox15.Location = new System.Drawing.Point(261, 227);
+            this.textBox15.Multiline = true;
+            this.textBox15.Name = "textBox15";
+            this.textBox15.Size = new System.Drawing.Size(68, 31);
+            this.textBox15.TabIndex = 333;
+            // 
+            // textBox16
+            // 
+            this.textBox16.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox16.Location = new System.Drawing.Point(261, 191);
+            this.textBox16.Multiline = true;
+            this.textBox16.Name = "textBox16";
+            this.textBox16.Size = new System.Drawing.Size(68, 31);
+            this.textBox16.TabIndex = 336;
+            this.textBox16.Text = "C";
+            this.textBox16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox17
+            // 
+            this.textBox17.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox17.Location = new System.Drawing.Point(261, 154);
+            this.textBox17.Multiline = true;
+            this.textBox17.Name = "textBox17";
+            this.textBox17.Size = new System.Drawing.Size(68, 31);
+            this.textBox17.TabIndex = 335;
+            this.textBox17.Text = "SF";
+            this.textBox17.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox18
+            // 
+            this.textBox18.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox18.Location = new System.Drawing.Point(261, 117);
+            this.textBox18.Multiline = true;
+            this.textBox18.Name = "textBox18";
+            this.textBox18.Size = new System.Drawing.Size(68, 31);
+            this.textBox18.TabIndex = 334;
+            this.textBox18.Text = "SF";
+            this.textBox18.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox19
+            // 
+            this.textBox19.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox19.Location = new System.Drawing.Point(261, 80);
+            this.textBox19.Multiline = true;
+            this.textBox19.Name = "textBox19";
+            this.textBox19.Size = new System.Drawing.Size(68, 31);
+            this.textBox19.TabIndex = 332;
+            this.textBox19.Text = "SF";
+            this.textBox19.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox20
+            // 
+            this.textBox20.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox20.Location = new System.Drawing.Point(261, 43);
+            this.textBox20.Multiline = true;
+            this.textBox20.Name = "textBox20";
+            this.textBox20.Size = new System.Drawing.Size(68, 31);
+            this.textBox20.TabIndex = 331;
+            this.textBox20.Text = "SG";
+            this.textBox20.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox21
+            // 
+            this.textBox21.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox21.Location = new System.Drawing.Point(261, 6);
+            this.textBox21.Multiline = true;
+            this.textBox21.Name = "textBox21";
+            this.textBox21.Size = new System.Drawing.Size(68, 31);
+            this.textBox21.TabIndex = 330;
+            this.textBox21.Text = "Position";
+            this.textBox21.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBox7
             // 
@@ -489,332 +683,130 @@
             this.textBox14.Text = "Name";
             this.textBox14.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
-            // textBox15
-            // 
-            this.textBox15.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox15.Location = new System.Drawing.Point(261, 227);
-            this.textBox15.Multiline = true;
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(68, 31);
-            this.textBox15.TabIndex = 333;
-            // 
-            // textBox16
-            // 
-            this.textBox16.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox16.Location = new System.Drawing.Point(261, 191);
-            this.textBox16.Multiline = true;
-            this.textBox16.Name = "textBox16";
-            this.textBox16.Size = new System.Drawing.Size(68, 31);
-            this.textBox16.TabIndex = 336;
-            this.textBox16.Text = "C";
-            this.textBox16.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox17
-            // 
-            this.textBox17.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox17.Location = new System.Drawing.Point(261, 154);
-            this.textBox17.Multiline = true;
-            this.textBox17.Name = "textBox17";
-            this.textBox17.Size = new System.Drawing.Size(68, 31);
-            this.textBox17.TabIndex = 335;
-            this.textBox17.Text = "SF";
-            this.textBox17.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox18
-            // 
-            this.textBox18.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox18.Location = new System.Drawing.Point(261, 117);
-            this.textBox18.Multiline = true;
-            this.textBox18.Name = "textBox18";
-            this.textBox18.Size = new System.Drawing.Size(68, 31);
-            this.textBox18.TabIndex = 334;
-            this.textBox18.Text = "SF";
-            this.textBox18.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox19
-            // 
-            this.textBox19.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox19.Location = new System.Drawing.Point(261, 80);
-            this.textBox19.Multiline = true;
-            this.textBox19.Name = "textBox19";
-            this.textBox19.Size = new System.Drawing.Size(68, 31);
-            this.textBox19.TabIndex = 332;
-            this.textBox19.Text = "SF";
-            this.textBox19.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox20
-            // 
-            this.textBox20.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox20.Location = new System.Drawing.Point(261, 43);
-            this.textBox20.Multiline = true;
-            this.textBox20.Name = "textBox20";
-            this.textBox20.Size = new System.Drawing.Size(68, 31);
-            this.textBox20.TabIndex = 331;
-            this.textBox20.Text = "SG";
-            this.textBox20.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox21
-            // 
-            this.textBox21.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox21.Location = new System.Drawing.Point(261, 6);
-            this.textBox21.Multiline = true;
-            this.textBox21.Name = "textBox21";
-            this.textBox21.Size = new System.Drawing.Size(68, 31);
-            this.textBox21.TabIndex = 330;
-            this.textBox21.Text = "Position";
-            this.textBox21.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox22
-            // 
-            this.textBox22.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox22.Location = new System.Drawing.Point(337, 227);
-            this.textBox22.Multiline = true;
-            this.textBox22.Name = "textBox22";
-            this.textBox22.Size = new System.Drawing.Size(78, 31);
-            this.textBox22.TabIndex = 340;
-            // 
-            // textBox23
-            // 
-            this.textBox23.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox23.Location = new System.Drawing.Point(337, 191);
-            this.textBox23.Multiline = true;
-            this.textBox23.Name = "textBox23";
-            this.textBox23.Size = new System.Drawing.Size(78, 31);
-            this.textBox23.TabIndex = 343;
-            // 
-            // textBox24
-            // 
-            this.textBox24.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox24.Location = new System.Drawing.Point(337, 154);
-            this.textBox24.Multiline = true;
-            this.textBox24.Name = "textBox24";
-            this.textBox24.Size = new System.Drawing.Size(78, 31);
-            this.textBox24.TabIndex = 342;
-            // 
-            // textBox25
-            // 
-            this.textBox25.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox25.Location = new System.Drawing.Point(337, 117);
-            this.textBox25.Multiline = true;
-            this.textBox25.Name = "textBox25";
-            this.textBox25.Size = new System.Drawing.Size(78, 31);
-            this.textBox25.TabIndex = 341;
-            // 
-            // textBox26
-            // 
-            this.textBox26.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox26.Location = new System.Drawing.Point(337, 80);
-            this.textBox26.Multiline = true;
-            this.textBox26.Name = "textBox26";
-            this.textBox26.Size = new System.Drawing.Size(78, 31);
-            this.textBox26.TabIndex = 339;
-            // 
-            // textBox27
-            // 
-            this.textBox27.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox27.Location = new System.Drawing.Point(337, 43);
-            this.textBox27.Multiline = true;
-            this.textBox27.Name = "textBox27";
-            this.textBox27.Size = new System.Drawing.Size(78, 31);
-            this.textBox27.TabIndex = 338;
-            // 
-            // textBox28
-            // 
-            this.textBox28.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox28.Location = new System.Drawing.Point(337, 6);
-            this.textBox28.Multiline = true;
-            this.textBox28.Name = "textBox28";
-            this.textBox28.Size = new System.Drawing.Size(78, 31);
-            this.textBox28.TabIndex = 337;
-            // 
-            // textBox29
-            // 
-            this.textBox29.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox29.Location = new System.Drawing.Point(421, 227);
-            this.textBox29.Multiline = true;
-            this.textBox29.Name = "textBox29";
-            this.textBox29.Size = new System.Drawing.Size(121, 31);
-            this.textBox29.TabIndex = 347;
-            // 
-            // textBox30
-            // 
-            this.textBox30.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox30.Location = new System.Drawing.Point(421, 191);
-            this.textBox30.Multiline = true;
-            this.textBox30.Name = "textBox30";
-            this.textBox30.Size = new System.Drawing.Size(121, 31);
-            this.textBox30.TabIndex = 350;
-            // 
-            // textBox31
-            // 
-            this.textBox31.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox31.Location = new System.Drawing.Point(421, 154);
-            this.textBox31.Multiline = true;
-            this.textBox31.Name = "textBox31";
-            this.textBox31.Size = new System.Drawing.Size(121, 31);
-            this.textBox31.TabIndex = 349;
-            // 
-            // textBox32
-            // 
-            this.textBox32.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox32.Location = new System.Drawing.Point(421, 117);
-            this.textBox32.Multiline = true;
-            this.textBox32.Name = "textBox32";
-            this.textBox32.Size = new System.Drawing.Size(121, 31);
-            this.textBox32.TabIndex = 348;
-            // 
-            // textBox33
-            // 
-            this.textBox33.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox33.Location = new System.Drawing.Point(421, 80);
-            this.textBox33.Multiline = true;
-            this.textBox33.Name = "textBox33";
-            this.textBox33.Size = new System.Drawing.Size(121, 31);
-            this.textBox33.TabIndex = 346;
-            // 
-            // textBox34
-            // 
-            this.textBox34.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox34.Location = new System.Drawing.Point(421, 43);
-            this.textBox34.Multiline = true;
-            this.textBox34.Name = "textBox34";
-            this.textBox34.Size = new System.Drawing.Size(121, 31);
-            this.textBox34.TabIndex = 345;
-            // 
-            // textBox35
-            // 
-            this.textBox35.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox35.Location = new System.Drawing.Point(421, 6);
-            this.textBox35.Multiline = true;
-            this.textBox35.Name = "textBox35";
-            this.textBox35.Size = new System.Drawing.Size(121, 31);
-            this.textBox35.TabIndex = 344;
-            // 
-            // textBox36
-            // 
-            this.textBox36.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox36.Location = new System.Drawing.Point(548, 227);
-            this.textBox36.Multiline = true;
-            this.textBox36.Name = "textBox36";
-            this.textBox36.Size = new System.Drawing.Size(96, 31);
-            this.textBox36.TabIndex = 354;
-            // 
-            // textBox37
-            // 
-            this.textBox37.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox37.Location = new System.Drawing.Point(548, 191);
-            this.textBox37.Multiline = true;
-            this.textBox37.Name = "textBox37";
-            this.textBox37.Size = new System.Drawing.Size(96, 31);
-            this.textBox37.TabIndex = 357;
-            // 
-            // textBox38
-            // 
-            this.textBox38.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox38.Location = new System.Drawing.Point(548, 154);
-            this.textBox38.Multiline = true;
-            this.textBox38.Name = "textBox38";
-            this.textBox38.Size = new System.Drawing.Size(96, 31);
-            this.textBox38.TabIndex = 356;
-            // 
-            // textBox39
-            // 
-            this.textBox39.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox39.Location = new System.Drawing.Point(548, 117);
-            this.textBox39.Multiline = true;
-            this.textBox39.Name = "textBox39";
-            this.textBox39.Size = new System.Drawing.Size(96, 31);
-            this.textBox39.TabIndex = 355;
-            // 
-            // textBox40
-            // 
-            this.textBox40.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox40.Location = new System.Drawing.Point(548, 80);
-            this.textBox40.Multiline = true;
-            this.textBox40.Name = "textBox40";
-            this.textBox40.Size = new System.Drawing.Size(96, 31);
-            this.textBox40.TabIndex = 353;
-            // 
-            // textBox41
-            // 
-            this.textBox41.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox41.Location = new System.Drawing.Point(548, 43);
-            this.textBox41.Multiline = true;
-            this.textBox41.Name = "textBox41";
-            this.textBox41.Size = new System.Drawing.Size(96, 31);
-            this.textBox41.TabIndex = 352;
-            // 
-            // textBox42
-            // 
-            this.textBox42.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox42.Location = new System.Drawing.Point(548, 6);
-            this.textBox42.Multiline = true;
-            this.textBox42.Name = "textBox42";
-            this.textBox42.Size = new System.Drawing.Size(96, 31);
-            this.textBox42.TabIndex = 351;
-            // 
-            // textBox43
-            // 
-            this.textBox43.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox43.Location = new System.Drawing.Point(650, 227);
-            this.textBox43.Multiline = true;
-            this.textBox43.Name = "textBox43";
-            this.textBox43.Size = new System.Drawing.Size(105, 31);
-            this.textBox43.TabIndex = 361;
-            // 
-            // textBox44
-            // 
-            this.textBox44.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox44.Location = new System.Drawing.Point(650, 191);
-            this.textBox44.Multiline = true;
-            this.textBox44.Name = "textBox44";
-            this.textBox44.Size = new System.Drawing.Size(105, 31);
-            this.textBox44.TabIndex = 364;
-            // 
-            // textBox45
-            // 
-            this.textBox45.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox45.Location = new System.Drawing.Point(650, 154);
-            this.textBox45.Multiline = true;
-            this.textBox45.Name = "textBox45";
-            this.textBox45.Size = new System.Drawing.Size(105, 31);
-            this.textBox45.TabIndex = 363;
-            // 
-            // textBox46
-            // 
-            this.textBox46.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox46.Location = new System.Drawing.Point(650, 117);
-            this.textBox46.Multiline = true;
-            this.textBox46.Name = "textBox46";
-            this.textBox46.Size = new System.Drawing.Size(105, 31);
-            this.textBox46.TabIndex = 362;
-            // 
-            // textBox47
-            // 
-            this.textBox47.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox47.Location = new System.Drawing.Point(650, 80);
-            this.textBox47.Multiline = true;
-            this.textBox47.Name = "textBox47";
-            this.textBox47.Size = new System.Drawing.Size(105, 31);
-            this.textBox47.TabIndex = 360;
-            // 
-            // textBox48
-            // 
-            this.textBox48.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox48.Location = new System.Drawing.Point(650, 43);
-            this.textBox48.Multiline = true;
-            this.textBox48.Name = "textBox48";
-            this.textBox48.Size = new System.Drawing.Size(105, 31);
-            this.textBox48.TabIndex = 359;
-            // 
-            // textBox49
-            // 
-            this.textBox49.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox49.Location = new System.Drawing.Point(650, 6);
-            this.textBox49.Multiline = true;
-            this.textBox49.Name = "textBox49";
-            this.textBox49.Size = new System.Drawing.Size(105, 31);
-            this.textBox49.TabIndex = 358;
+            // textBox6
+            // 
+            this.textBox6.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox6.Location = new System.Drawing.Point(6, 227);
+            this.textBox6.Multiline = true;
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(103, 31);
+            this.textBox6.TabIndex = 320;
+            this.textBox6.Text = "........";
+            this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox5
+            // 
+            this.textBox5.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox5.Location = new System.Drawing.Point(6, 191);
+            this.textBox5.Multiline = true;
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(103, 31);
+            this.textBox5.TabIndex = 322;
+            this.textBox5.Text = "99";
+            this.textBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox4
+            // 
+            this.textBox4.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox4.Location = new System.Drawing.Point(6, 154);
+            this.textBox4.Multiline = true;
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(103, 31);
+            this.textBox4.TabIndex = 321;
+            this.textBox4.Text = "42";
+            this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox3
+            // 
+            this.textBox3.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox3.Location = new System.Drawing.Point(6, 117);
+            this.textBox3.Multiline = true;
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(103, 31);
+            this.textBox3.TabIndex = 320;
+            this.textBox3.Text = "30";
+            this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox2
+            // 
+            this.textBox2.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox2.Location = new System.Drawing.Point(6, 80);
+            this.textBox2.Multiline = true;
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(103, 31);
+            this.textBox2.TabIndex = 319;
+            this.textBox2.Text = "7";
+            this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.SystemColors.Menu;
+            this.textBox1.Location = new System.Drawing.Point(6, 43);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(103, 31);
+            this.textBox1.TabIndex = 318;
+            this.textBox1.Text = "0";
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.textBox50);
+            this.tabPage2.Controls.Add(this.textBox51);
+            this.tabPage2.Controls.Add(this.textBox52);
+            this.tabPage2.Controls.Add(this.textBox53);
+            this.tabPage2.Controls.Add(this.textBox54);
+            this.tabPage2.Controls.Add(this.textBox55);
+            this.tabPage2.Controls.Add(this.textBox56);
+            this.tabPage2.Controls.Add(this.textBox57);
+            this.tabPage2.Controls.Add(this.textBox58);
+            this.tabPage2.Controls.Add(this.textBox59);
+            this.tabPage2.Controls.Add(this.textBox60);
+            this.tabPage2.Controls.Add(this.textBox61);
+            this.tabPage2.Controls.Add(this.textBox62);
+            this.tabPage2.Controls.Add(this.textBox63);
+            this.tabPage2.Controls.Add(this.textBox64);
+            this.tabPage2.Controls.Add(this.textBox65);
+            this.tabPage2.Controls.Add(this.textBox66);
+            this.tabPage2.Controls.Add(this.textBox67);
+            this.tabPage2.Controls.Add(this.textBox68);
+            this.tabPage2.Controls.Add(this.textBox69);
+            this.tabPage2.Controls.Add(this.textBox70);
+            this.tabPage2.Controls.Add(this.textBox71);
+            this.tabPage2.Controls.Add(this.textBox72);
+            this.tabPage2.Controls.Add(this.textBox73);
+            this.tabPage2.Controls.Add(this.textBox74);
+            this.tabPage2.Controls.Add(this.textBox75);
+            this.tabPage2.Controls.Add(this.textBox76);
+            this.tabPage2.Controls.Add(this.textBox77);
+            this.tabPage2.Controls.Add(this.textBox78);
+            this.tabPage2.Controls.Add(this.textBox79);
+            this.tabPage2.Controls.Add(this.textBox80);
+            this.tabPage2.Controls.Add(this.textBox81);
+            this.tabPage2.Controls.Add(this.textBox82);
+            this.tabPage2.Controls.Add(this.textBox83);
+            this.tabPage2.Controls.Add(this.textBox84);
+            this.tabPage2.Controls.Add(this.textBox85);
+            this.tabPage2.Controls.Add(this.textBox86);
+            this.tabPage2.Controls.Add(this.textBox87);
+            this.tabPage2.Controls.Add(this.textBox88);
+            this.tabPage2.Controls.Add(this.textBox89);
+            this.tabPage2.Controls.Add(this.textBox90);
+            this.tabPage2.Controls.Add(this.textBox91);
+            this.tabPage2.Controls.Add(this.textBox92);
+            this.tabPage2.Controls.Add(this.textBox93);
+            this.tabPage2.Controls.Add(this.textBox94);
+            this.tabPage2.Controls.Add(this.textBox95);
+            this.tabPage2.Controls.Add(this.textBox96);
+            this.tabPage2.Controls.Add(this.textBox97);
+            this.tabPage2.Controls.Add(this.textBox98);
+            this.tabPage2.Location = new System.Drawing.Point(4, 29);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(764, 264);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "Matchups";
+            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // textBox50
             // 
@@ -1256,6 +1248,15 @@
             this.textBox98.Name = "textBox98";
             this.textBox98.Size = new System.Drawing.Size(103, 31);
             this.textBox98.TabIndex = 365;
+            // 
+            // tabPage3
+            // 
+            this.tabPage3.Location = new System.Drawing.Point(4, 29);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Size = new System.Drawing.Size(764, 264);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "Lineup";
+            this.tabPage3.UseVisualStyleBackColor = true;
             // 
             // Team_Detail
             // 

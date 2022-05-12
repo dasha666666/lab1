@@ -34,50 +34,51 @@
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
             this.labeel5 = new System.Windows.Forms.Label();
             this.labeel4 = new System.Windows.Forms.Label();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.textBox10 = new System.Windows.Forms.TextBox();
+            this.pictureBox11 = new System.Windows.Forms.PictureBox();
+            this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.textBox11 = new System.Windows.Forms.TextBox();
-            this.label27 = new System.Windows.Forms.Label();
+            this.pictureBox13 = new System.Windows.Forms.PictureBox();
             this.labeel3 = new System.Windows.Forms.Label();
             this.labeel2 = new System.Windows.Forms.Label();
             this.textBox12 = new System.Windows.Forms.TextBox();
+            this.pictureBox15 = new System.Windows.Forms.PictureBox();
             this.label33 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
             this.labeel1 = new System.Windows.Forms.Label();
             this.textBox13 = new System.Windows.Forms.TextBox();
             this.textBox15 = new System.Windows.Forms.TextBox();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
-            this.label15 = new System.Windows.Forms.Label();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.label16 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
             this.textBox7 = new System.Windows.Forms.TextBox();
-            this.label18 = new System.Windows.Forms.Label();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.label19 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
             this.textBox8 = new System.Windows.Forms.TextBox();
             this.textBox9 = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
-            this.label12 = new System.Windows.Forms.Label();
+            this.pictureBox14 = new System.Windows.Forms.PictureBox();
             this.label13 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
             this.textBox6 = new System.Windows.Forms.TextBox();
-            this.label28 = new System.Windows.Forms.Label();
+            this.pictureBox16 = new System.Windows.Forms.PictureBox();
             this.label29 = new System.Windows.Forms.Label();
             this.label32 = new System.Windows.Forms.Label();
             this.textBox14 = new System.Windows.Forms.TextBox();
@@ -136,24 +137,6 @@
             this.textBox30 = new System.Windows.Forms.TextBox();
             this.textBox31 = new System.Windows.Forms.TextBox();
             this.textBox32 = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label69 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
-            this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            this.pictureBox12 = new System.Windows.Forms.PictureBox();
-            this.pictureBox13 = new System.Windows.Forms.PictureBox();
-            this.pictureBox15 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox14 = new System.Windows.Forms.PictureBox();
-            this.pictureBox16 = new System.Windows.Forms.PictureBox();
             this.pictureBox17 = new System.Windows.Forms.PictureBox();
             this.pictureBox18 = new System.Windows.Forms.PictureBox();
             this.pictureBox19 = new System.Windows.Forms.PictureBox();
@@ -169,10 +152,56 @@
             this.pictureBox29 = new System.Windows.Forms.PictureBox();
             this.pictureBox30 = new System.Windows.Forms.PictureBox();
             this.pictureBox31 = new System.Windows.Forms.PictureBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label69 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label24 = new System.Windows.Forms.Label();
+            this.label25 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label23 = new System.Windows.Forms.Label();
+            this.label27 = new System.Windows.Forms.Label();
+            this.label28 = new System.Windows.Forms.Label();
+            this.label30 = new System.Windows.Forms.Label();
+            this.label31 = new System.Windows.Forms.Label();
+            this.label35 = new System.Windows.Forms.Label();
+            this.label70 = new System.Windows.Forms.Label();
+            this.label71 = new System.Windows.Forms.Label();
+            this.label72 = new System.Windows.Forms.Label();
+            this.label73 = new System.Windows.Forms.Label();
+            this.label74 = new System.Windows.Forms.Label();
+            this.label75 = new System.Windows.Forms.Label();
+            this.label76 = new System.Windows.Forms.Label();
+            this.label77 = new System.Windows.Forms.Label();
+            this.label78 = new System.Windows.Forms.Label();
+            this.label79 = new System.Windows.Forms.Label();
+            this.label80 = new System.Windows.Forms.Label();
+            this.label81 = new System.Windows.Forms.Label();
+            this.label82 = new System.Windows.Forms.Label();
+            this.label83 = new System.Windows.Forms.Label();
+            this.label84 = new System.Windows.Forms.Label();
+            this.label85 = new System.Windows.Forms.Label();
+            this.label86 = new System.Windows.Forms.Label();
+            this.label87 = new System.Windows.Forms.Label();
+            this.label88 = new System.Windows.Forms.Label();
+            this.label89 = new System.Windows.Forms.Label();
+            this.label90 = new System.Windows.Forms.Label();
+            this.label91 = new System.Windows.Forms.Label();
+            this.label92 = new System.Windows.Forms.Label();
+            this.label93 = new System.Windows.Forms.Label();
+            this.label94 = new System.Windows.Forms.Label();
             this.Eastern.SuspendLayout();
             this.tabPage1.SuspendLayout();
-            this.tabPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
@@ -188,6 +217,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
+            this.tabPage2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
@@ -230,12 +260,51 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.label94);
+            this.tabPage1.Controls.Add(this.label91);
+            this.tabPage1.Controls.Add(this.label88);
+            this.tabPage1.Controls.Add(this.label85);
+            this.tabPage1.Controls.Add(this.label82);
+            this.tabPage1.Controls.Add(this.label79);
+            this.tabPage1.Controls.Add(this.label76);
+            this.tabPage1.Controls.Add(this.label73);
+            this.tabPage1.Controls.Add(this.label70);
+            this.tabPage1.Controls.Add(this.label30);
+            this.tabPage1.Controls.Add(this.label93);
+            this.tabPage1.Controls.Add(this.label90);
+            this.tabPage1.Controls.Add(this.label87);
+            this.tabPage1.Controls.Add(this.label84);
+            this.tabPage1.Controls.Add(this.label81);
+            this.tabPage1.Controls.Add(this.label92);
+            this.tabPage1.Controls.Add(this.label23);
+            this.tabPage1.Controls.Add(this.label89);
+            this.tabPage1.Controls.Add(this.label78);
+            this.tabPage1.Controls.Add(this.label86);
+            this.tabPage1.Controls.Add(this.label75);
+            this.tabPage1.Controls.Add(this.label83);
+            this.tabPage1.Controls.Add(this.label72);
+            this.tabPage1.Controls.Add(this.label80);
+            this.tabPage1.Controls.Add(this.label35);
+            this.tabPage1.Controls.Add(this.label77);
+            this.tabPage1.Controls.Add(this.label28);
+            this.tabPage1.Controls.Add(this.label74);
+            this.tabPage1.Controls.Add(this.label18);
+            this.tabPage1.Controls.Add(this.label71);
+            this.tabPage1.Controls.Add(this.label22);
+            this.tabPage1.Controls.Add(this.label31);
+            this.tabPage1.Controls.Add(this.label9);
+            this.tabPage1.Controls.Add(this.label27);
+            this.tabPage1.Controls.Add(this.label15);
+            this.tabPage1.Controls.Add(this.label21);
+            this.tabPage1.Controls.Add(this.label7);
+            this.tabPage1.Controls.Add(this.label12);
+            this.tabPage1.Controls.Add(this.label8);
+            this.tabPage1.Controls.Add(this.label5);
+            this.tabPage1.Controls.Add(this.label6);
+            this.tabPage1.Controls.Add(this.label3);
             this.tabPage1.Controls.Add(this.button3);
             this.tabPage1.Controls.Add(this.button2);
             this.tabPage1.Controls.Add(this.button4);
-            this.tabPage1.Controls.Add(this.label21);
-            this.tabPage1.Controls.Add(this.label22);
-            this.tabPage1.Controls.Add(this.label23);
             this.tabPage1.Controls.Add(this.labeel5);
             this.tabPage1.Controls.Add(this.labeel4);
             this.tabPage1.Controls.Add(this.pictureBox10);
@@ -244,19 +313,16 @@
             this.tabPage1.Controls.Add(this.pictureBox12);
             this.tabPage1.Controls.Add(this.textBox11);
             this.tabPage1.Controls.Add(this.pictureBox13);
-            this.tabPage1.Controls.Add(this.label27);
             this.tabPage1.Controls.Add(this.labeel3);
             this.tabPage1.Controls.Add(this.labeel2);
             this.tabPage1.Controls.Add(this.textBox12);
             this.tabPage1.Controls.Add(this.pictureBox15);
+            this.tabPage1.Controls.Add(this.label25);
+            this.tabPage1.Controls.Add(this.label24);
             this.tabPage1.Controls.Add(this.label33);
             this.tabPage1.Controls.Add(this.label34);
             this.tabPage1.Controls.Add(this.labeel1);
-            this.tabPage1.Controls.Add(this.textBox13);
             this.tabPage1.Controls.Add(this.textBox15);
-            this.tabPage1.Controls.Add(this.label7);
-            this.tabPage1.Controls.Add(this.label8);
-            this.tabPage1.Controls.Add(this.label9);
             this.tabPage1.Controls.Add(this.label10);
             this.tabPage1.Controls.Add(this.label14);
             this.tabPage1.Controls.Add(this.pictureBox3);
@@ -265,19 +331,14 @@
             this.tabPage1.Controls.Add(this.pictureBox7);
             this.tabPage1.Controls.Add(this.textBox5);
             this.tabPage1.Controls.Add(this.pictureBox8);
-            this.tabPage1.Controls.Add(this.label15);
             this.tabPage1.Controls.Add(this.label16);
             this.tabPage1.Controls.Add(this.label17);
             this.tabPage1.Controls.Add(this.textBox7);
             this.tabPage1.Controls.Add(this.pictureBox9);
-            this.tabPage1.Controls.Add(this.label18);
             this.tabPage1.Controls.Add(this.label19);
             this.tabPage1.Controls.Add(this.label20);
             this.tabPage1.Controls.Add(this.textBox8);
             this.tabPage1.Controls.Add(this.textBox9);
-            this.tabPage1.Controls.Add(this.label6);
-            this.tabPage1.Controls.Add(this.label5);
-            this.tabPage1.Controls.Add(this.label3);
             this.tabPage1.Controls.Add(this.label4);
             this.tabPage1.Controls.Add(this.label11);
             this.tabPage1.Controls.Add(this.pictureBox2);
@@ -286,16 +347,15 @@
             this.tabPage1.Controls.Add(this.pictureBox6);
             this.tabPage1.Controls.Add(this.textBox2);
             this.tabPage1.Controls.Add(this.pictureBox14);
-            this.tabPage1.Controls.Add(this.label12);
             this.tabPage1.Controls.Add(this.label13);
             this.tabPage1.Controls.Add(this.label26);
             this.tabPage1.Controls.Add(this.textBox6);
             this.tabPage1.Controls.Add(this.pictureBox16);
-            this.tabPage1.Controls.Add(this.label28);
             this.tabPage1.Controls.Add(this.label29);
             this.tabPage1.Controls.Add(this.label32);
             this.tabPage1.Controls.Add(this.textBox14);
             this.tabPage1.Controls.Add(this.textBox1);
+            this.tabPage1.Controls.Add(this.textBox13);
             this.tabPage1.Controls.Add(this.textBox16);
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
@@ -333,36 +393,6 @@
             this.button4.Text = "Central";
             this.button4.UseVisualStyleBackColor = true;
             // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label21.Location = new System.Drawing.Point(76, 271);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(175, 13);
-            this.label21.TabIndex = 357;
-            this.label21.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label22.Location = new System.Drawing.Point(76, 218);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(175, 13);
-            this.label22.TabIndex = 356;
-            this.label22.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label23.Location = new System.Drawing.Point(76, 164);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(175, 13);
-            this.label23.TabIndex = 355;
-            this.label23.Text = "Roster      Matchups      First Lineup";
-            // 
             // labeel5
             // 
             this.labeel5.AutoSize = true;
@@ -383,6 +413,17 @@
             this.labeel4.TabIndex = 353;
             this.labeel4.Text = "Teams name";
             // 
+            // pictureBox10
+            // 
+            this.pictureBox10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox10.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox10.Location = new System.Drawing.Point(0, 240);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox10.TabIndex = 352;
+            this.pictureBox10.TabStop = false;
+            // 
             // textBox10
             // 
             this.textBox10.BackColor = System.Drawing.SystemColors.Menu;
@@ -391,6 +432,28 @@
             this.textBox10.Name = "textBox10";
             this.textBox10.Size = new System.Drawing.Size(254, 54);
             this.textBox10.TabIndex = 351;
+            // 
+            // pictureBox11
+            // 
+            this.pictureBox11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox11.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox11.Location = new System.Drawing.Point(0, 189);
+            this.pictureBox11.Name = "pictureBox11";
+            this.pictureBox11.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox11.TabIndex = 350;
+            this.pictureBox11.TabStop = false;
+            // 
+            // pictureBox12
+            // 
+            this.pictureBox12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox12.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox12.Location = new System.Drawing.Point(0, 135);
+            this.pictureBox12.Name = "pictureBox12";
+            this.pictureBox12.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox12.TabIndex = 349;
+            this.pictureBox12.TabStop = false;
             // 
             // textBox11
             // 
@@ -401,15 +464,16 @@
             this.textBox11.Size = new System.Drawing.Size(254, 54);
             this.textBox11.TabIndex = 348;
             // 
-            // label27
+            // pictureBox13
             // 
-            this.label27.AutoSize = true;
-            this.label27.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label27.Location = new System.Drawing.Point(76, 108);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(175, 13);
-            this.label27.TabIndex = 345;
-            this.label27.Text = "Roster      Matchups      First Lineup";
+            this.pictureBox13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox13.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox13.Location = new System.Drawing.Point(0, 82);
+            this.pictureBox13.Name = "pictureBox13";
+            this.pictureBox13.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox13.TabIndex = 346;
+            this.pictureBox13.TabStop = false;
             // 
             // labeel3
             // 
@@ -440,15 +504,28 @@
             this.textBox12.Size = new System.Drawing.Size(254, 54);
             this.textBox12.TabIndex = 342;
             // 
+            // pictureBox15
+            // 
+            this.pictureBox15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox15.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox15.Location = new System.Drawing.Point(0, 29);
+            this.pictureBox15.Name = "pictureBox15";
+            this.pictureBox15.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox15.TabIndex = 341;
+            this.pictureBox15.TabStop = false;
+            this.pictureBox15.Click += new System.EventHandler(this.pictureBox15_Click);
+            // 
             // label33
             // 
             this.label33.AutoSize = true;
             this.label33.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label33.Location = new System.Drawing.Point(76, 58);
+            this.label33.Location = new System.Drawing.Point(70, 57);
             this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(175, 13);
+            this.label33.Size = new System.Drawing.Size(41, 13);
             this.label33.TabIndex = 340;
-            this.label33.Text = "Roster      Matchups      First Lineup";
+            this.label33.Text = "Roster ";
+            this.label33.Click += new System.EventHandler(this.label33_Click);
             // 
             // label34
             // 
@@ -490,36 +567,6 @@
             this.textBox15.Size = new System.Drawing.Size(254, 54);
             this.textBox15.TabIndex = 347;
             // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label7.Location = new System.Drawing.Point(336, 270);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(175, 13);
-            this.label7.TabIndex = 336;
-            this.label7.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label8.Location = new System.Drawing.Point(336, 217);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(175, 13);
-            this.label8.TabIndex = 335;
-            this.label8.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label9.Location = new System.Drawing.Point(336, 163);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(175, 13);
-            this.label9.TabIndex = 334;
-            this.label9.Text = "Roster      Matchups      First Lineup";
-            // 
             // label10
             // 
             this.label10.AutoSize = true;
@@ -540,14 +587,47 @@
             this.label14.TabIndex = 332;
             this.label14.Text = "Teams name";
             // 
+            // pictureBox3
+            // 
+            this.pictureBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox3.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox3.Location = new System.Drawing.Point(260, 242);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox3.TabIndex = 331;
+            this.pictureBox3.TabStop = false;
+            // 
             // textBox4
             // 
             this.textBox4.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox4.Location = new System.Drawing.Point(260, 240);
+            this.textBox4.Location = new System.Drawing.Point(260, 242);
             this.textBox4.Multiline = true;
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(254, 54);
             this.textBox4.TabIndex = 330;
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox5.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox5.Location = new System.Drawing.Point(261, 189);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox5.TabIndex = 329;
+            this.pictureBox5.TabStop = false;
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox7.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox7.Location = new System.Drawing.Point(261, 135);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox7.TabIndex = 328;
+            this.pictureBox7.TabStop = false;
             // 
             // textBox5
             // 
@@ -558,15 +638,16 @@
             this.textBox5.Size = new System.Drawing.Size(254, 54);
             this.textBox5.TabIndex = 327;
             // 
-            // label15
+            // pictureBox8
             // 
-            this.label15.AutoSize = true;
-            this.label15.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label15.Location = new System.Drawing.Point(336, 107);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(175, 13);
-            this.label15.TabIndex = 324;
-            this.label15.Text = "Roster      Matchups      First Lineup";
+            this.pictureBox8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox8.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox8.Location = new System.Drawing.Point(260, 82);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox8.TabIndex = 325;
+            this.pictureBox8.TabStop = false;
             // 
             // label16
             // 
@@ -597,15 +678,16 @@
             this.textBox7.Size = new System.Drawing.Size(254, 54);
             this.textBox7.TabIndex = 321;
             // 
-            // label18
+            // pictureBox9
             // 
-            this.label18.AutoSize = true;
-            this.label18.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label18.Location = new System.Drawing.Point(336, 57);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(175, 13);
-            this.label18.TabIndex = 319;
-            this.label18.Text = "Roster      Matchups      First Lineup";
+            this.pictureBox9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox9.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox9.Location = new System.Drawing.Point(260, 29);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox9.TabIndex = 320;
+            this.pictureBox9.TabStop = false;
             // 
             // label19
             // 
@@ -646,36 +728,6 @@
             this.textBox9.Size = new System.Drawing.Size(254, 54);
             this.textBox9.TabIndex = 326;
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label6.Location = new System.Drawing.Point(596, 270);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(175, 13);
-            this.label6.TabIndex = 315;
-            this.label6.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label5.Location = new System.Drawing.Point(596, 217);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(175, 13);
-            this.label5.TabIndex = 314;
-            this.label5.Text = "Roster      Matchups      First Lineup";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label3.Location = new System.Drawing.Point(596, 163);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(175, 13);
-            this.label3.TabIndex = 313;
-            this.label3.Text = "Roster      Matchups      First Lineup";
-            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -696,6 +748,17 @@
             this.label11.TabIndex = 311;
             this.label11.Text = "Teams name";
             // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox2.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox2.Location = new System.Drawing.Point(520, 240);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox2.TabIndex = 310;
+            this.pictureBox2.TabStop = false;
+            // 
             // textBox3
             // 
             this.textBox3.BackColor = System.Drawing.SystemColors.Menu;
@@ -704,6 +767,28 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(254, 54);
             this.textBox3.TabIndex = 309;
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox4.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox4.Location = new System.Drawing.Point(520, 189);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox4.TabIndex = 308;
+            this.pictureBox4.TabStop = false;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox6.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox6.Location = new System.Drawing.Point(520, 135);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox6.TabIndex = 307;
+            this.pictureBox6.TabStop = false;
             // 
             // textBox2
             // 
@@ -714,15 +799,16 @@
             this.textBox2.Size = new System.Drawing.Size(254, 54);
             this.textBox2.TabIndex = 306;
             // 
-            // label12
+            // pictureBox14
             // 
-            this.label12.AutoSize = true;
-            this.label12.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label12.Location = new System.Drawing.Point(596, 107);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(175, 13);
-            this.label12.TabIndex = 303;
-            this.label12.Text = "Roster      Matchups      First Lineup";
+            this.pictureBox14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox14.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox14.Location = new System.Drawing.Point(520, 82);
+            this.pictureBox14.Name = "pictureBox14";
+            this.pictureBox14.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox14.TabIndex = 304;
+            this.pictureBox14.TabStop = false;
             // 
             // label13
             // 
@@ -753,15 +839,16 @@
             this.textBox6.Size = new System.Drawing.Size(254, 54);
             this.textBox6.TabIndex = 300;
             // 
-            // label28
+            // pictureBox16
             // 
-            this.label28.AutoSize = true;
-            this.label28.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.label28.Location = new System.Drawing.Point(596, 57);
-            this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(175, 13);
-            this.label28.TabIndex = 298;
-            this.label28.Text = "Roster      Matchups      First Lineup";
+            this.pictureBox16.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox16.Image = global::WindowsFormsApp1.Properties.Resources.ben;
+            this.pictureBox16.Location = new System.Drawing.Point(520, 28);
+            this.pictureBox16.Name = "pictureBox16";
+            this.pictureBox16.Size = new System.Drawing.Size(53, 54);
+            this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox16.TabIndex = 299;
+            this.pictureBox16.TabStop = false;
             // 
             // label29
             // 
@@ -1390,203 +1477,6 @@
             this.textBox32.Size = new System.Drawing.Size(781, 309);
             this.textBox32.TabIndex = 361;
             // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(344, 9);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(130, 25);
-            this.label2.TabIndex = 299;
-            this.label2.Text = "Teams Main";
-            // 
-            // label69
-            // 
-            this.label69.AutoSize = true;
-            this.label69.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label69.Location = new System.Drawing.Point(46, 25);
-            this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(157, 16);
-            this.label69.TabIndex = 298;
-            this.label69.Text = "NBA Managment System";
-            // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button1.Location = new System.Drawing.Point(699, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(82, 29);
-            this.button1.TabIndex = 301;
-            this.button1.Text = "Back";
-            this.button1.UseVisualStyleBackColor = false;
-            // 
-            // pictureBox10
-            // 
-            this.pictureBox10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox10.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox10.Location = new System.Drawing.Point(0, 243);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox10.TabIndex = 352;
-            this.pictureBox10.TabStop = false;
-            // 
-            // pictureBox11
-            // 
-            this.pictureBox11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox11.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox11.Location = new System.Drawing.Point(0, 192);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox11.TabIndex = 350;
-            this.pictureBox11.TabStop = false;
-            // 
-            // pictureBox12
-            // 
-            this.pictureBox12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox12.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox12.Location = new System.Drawing.Point(0, 138);
-            this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox12.TabIndex = 349;
-            this.pictureBox12.TabStop = false;
-            // 
-            // pictureBox13
-            // 
-            this.pictureBox13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox13.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox13.Location = new System.Drawing.Point(0, 85);
-            this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox13.TabIndex = 346;
-            this.pictureBox13.TabStop = false;
-            // 
-            // pictureBox15
-            // 
-            this.pictureBox15.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox15.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox15.Location = new System.Drawing.Point(0, 29);
-            this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox15.TabIndex = 341;
-            this.pictureBox15.TabStop = false;
-            this.pictureBox15.Click += new System.EventHandler(this.pictureBox15_Click);
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox3.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox3.Location = new System.Drawing.Point(260, 242);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox3.TabIndex = 331;
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox5
-            // 
-            this.pictureBox5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox5.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox5.Location = new System.Drawing.Point(260, 191);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox5.TabIndex = 329;
-            this.pictureBox5.TabStop = false;
-            // 
-            // pictureBox7
-            // 
-            this.pictureBox7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox7.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox7.Location = new System.Drawing.Point(260, 137);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox7.TabIndex = 328;
-            this.pictureBox7.TabStop = false;
-            // 
-            // pictureBox8
-            // 
-            this.pictureBox8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox8.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox8.Location = new System.Drawing.Point(260, 84);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox8.TabIndex = 325;
-            this.pictureBox8.TabStop = false;
-            // 
-            // pictureBox9
-            // 
-            this.pictureBox9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox9.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox9.Location = new System.Drawing.Point(260, 30);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox9.TabIndex = 320;
-            this.pictureBox9.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox2.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox2.Location = new System.Drawing.Point(520, 240);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox2.TabIndex = 310;
-            this.pictureBox2.TabStop = false;
-            // 
-            // pictureBox4
-            // 
-            this.pictureBox4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox4.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox4.Location = new System.Drawing.Point(520, 189);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox4.TabIndex = 308;
-            this.pictureBox4.TabStop = false;
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox6.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox6.Location = new System.Drawing.Point(520, 135);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox6.TabIndex = 307;
-            this.pictureBox6.TabStop = false;
-            // 
-            // pictureBox14
-            // 
-            this.pictureBox14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox14.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox14.Location = new System.Drawing.Point(520, 82);
-            this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox14.TabIndex = 304;
-            this.pictureBox14.TabStop = false;
-            // 
-            // pictureBox16
-            // 
-            this.pictureBox16.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox16.Image = global::WindowsFormsApp1.Properties.Resources.ben;
-            this.pictureBox16.Location = new System.Drawing.Point(520, 30);
-            this.pictureBox16.Name = "pictureBox16";
-            this.pictureBox16.Size = new System.Drawing.Size(53, 54);
-            this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox16.TabIndex = 299;
-            this.pictureBox16.TabStop = false;
-            // 
             // pictureBox17
             // 
             this.pictureBox17.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
@@ -1752,6 +1642,38 @@
             this.pictureBox31.TabIndex = 299;
             this.pictureBox31.TabStop = false;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label2.Location = new System.Drawing.Point(344, 9);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(130, 25);
+            this.label2.TabIndex = 299;
+            this.label2.Text = "Teams Main";
+            // 
+            // label69
+            // 
+            this.label69.AutoSize = true;
+            this.label69.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label69.Location = new System.Drawing.Point(46, 25);
+            this.label69.Name = "label69";
+            this.label69.Size = new System.Drawing.Size(157, 16);
+            this.label69.TabIndex = 298;
+            this.label69.Text = "NBA Managment System";
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button1.Location = new System.Drawing.Point(699, 12);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(82, 29);
+            this.button1.TabIndex = 301;
+            this.button1.Text = "Back";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.Безымянный;
@@ -1761,6 +1683,447 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
+            // 
+            // label24
+            // 
+            this.label24.AutoSize = true;
+            this.label24.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label24.Location = new System.Drawing.Point(117, 57);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(54, 13);
+            this.label24.TabIndex = 340;
+            this.label24.Text = "Matchups";
+            this.label24.Click += new System.EventHandler(this.label24_Click);
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label25.Location = new System.Drawing.Point(177, 57);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(61, 13);
+            this.label25.TabIndex = 340;
+            this.label25.Text = "First Lineup";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label3.Location = new System.Drawing.Point(70, 110);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(38, 13);
+            this.label3.TabIndex = 362;
+            this.label3.Text = "Roster";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label6.Location = new System.Drawing.Point(117, 110);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(54, 13);
+            this.label6.TabIndex = 362;
+            this.label6.Text = "Matchups";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label7.Location = new System.Drawing.Point(177, 110);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(61, 13);
+            this.label7.TabIndex = 362;
+            this.label7.Text = "First Lineup";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label5.Location = new System.Drawing.Point(70, 164);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(38, 13);
+            this.label5.TabIndex = 362;
+            this.label5.Text = "Roster";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label8.Location = new System.Drawing.Point(117, 164);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(54, 13);
+            this.label8.TabIndex = 362;
+            this.label8.Text = "Matchups";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label9.Location = new System.Drawing.Point(177, 164);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(61, 13);
+            this.label9.TabIndex = 362;
+            this.label9.Text = "First Lineup";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label12.Location = new System.Drawing.Point(70, 216);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(38, 13);
+            this.label12.TabIndex = 362;
+            this.label12.Text = "Roster";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label15.Location = new System.Drawing.Point(117, 216);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(54, 13);
+            this.label15.TabIndex = 362;
+            this.label15.Text = "Matchups";
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label18.Location = new System.Drawing.Point(177, 216);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(61, 13);
+            this.label18.TabIndex = 362;
+            this.label18.Text = "First Lineup";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label21.Location = new System.Drawing.Point(70, 269);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(38, 13);
+            this.label21.TabIndex = 362;
+            this.label21.Text = "Roster";
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label22.Location = new System.Drawing.Point(117, 269);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(54, 13);
+            this.label22.TabIndex = 362;
+            this.label22.Text = "Matchups";
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label23.Location = new System.Drawing.Point(177, 269);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(61, 13);
+            this.label23.TabIndex = 362;
+            this.label23.Text = "First Lineup";
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label27.Location = new System.Drawing.Point(324, 57);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(38, 13);
+            this.label27.TabIndex = 362;
+            this.label27.Text = "Roster";
+            // 
+            // label28
+            // 
+            this.label28.AutoSize = true;
+            this.label28.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label28.Location = new System.Drawing.Point(371, 57);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(54, 13);
+            this.label28.TabIndex = 362;
+            this.label28.Text = "Matchups";
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label30.Location = new System.Drawing.Point(431, 57);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(61, 13);
+            this.label30.TabIndex = 362;
+            this.label30.Text = "First Lineup";
+            // 
+            // label31
+            // 
+            this.label31.AutoSize = true;
+            this.label31.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label31.Location = new System.Drawing.Point(324, 110);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(38, 13);
+            this.label31.TabIndex = 362;
+            this.label31.Text = "Roster";
+            // 
+            // label35
+            // 
+            this.label35.AutoSize = true;
+            this.label35.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label35.Location = new System.Drawing.Point(371, 110);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(54, 13);
+            this.label35.TabIndex = 362;
+            this.label35.Text = "Matchups";
+            // 
+            // label70
+            // 
+            this.label70.AutoSize = true;
+            this.label70.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label70.Location = new System.Drawing.Point(431, 110);
+            this.label70.Name = "label70";
+            this.label70.Size = new System.Drawing.Size(61, 13);
+            this.label70.TabIndex = 362;
+            this.label70.Text = "First Lineup";
+            // 
+            // label71
+            // 
+            this.label71.AutoSize = true;
+            this.label71.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label71.Location = new System.Drawing.Point(324, 164);
+            this.label71.Name = "label71";
+            this.label71.Size = new System.Drawing.Size(38, 13);
+            this.label71.TabIndex = 362;
+            this.label71.Text = "Roster";
+            // 
+            // label72
+            // 
+            this.label72.AutoSize = true;
+            this.label72.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label72.Location = new System.Drawing.Point(371, 164);
+            this.label72.Name = "label72";
+            this.label72.Size = new System.Drawing.Size(54, 13);
+            this.label72.TabIndex = 362;
+            this.label72.Text = "Matchups";
+            // 
+            // label73
+            // 
+            this.label73.AutoSize = true;
+            this.label73.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label73.Location = new System.Drawing.Point(431, 164);
+            this.label73.Name = "label73";
+            this.label73.Size = new System.Drawing.Size(61, 13);
+            this.label73.TabIndex = 362;
+            this.label73.Text = "First Lineup";
+            // 
+            // label74
+            // 
+            this.label74.AutoSize = true;
+            this.label74.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label74.Location = new System.Drawing.Point(324, 207);
+            this.label74.Name = "label74";
+            this.label74.Size = new System.Drawing.Size(38, 13);
+            this.label74.TabIndex = 362;
+            this.label74.Text = "Roster";
+            // 
+            // label75
+            // 
+            this.label75.AutoSize = true;
+            this.label75.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label75.Location = new System.Drawing.Point(371, 207);
+            this.label75.Name = "label75";
+            this.label75.Size = new System.Drawing.Size(54, 13);
+            this.label75.TabIndex = 362;
+            this.label75.Text = "Matchups";
+            // 
+            // label76
+            // 
+            this.label76.AutoSize = true;
+            this.label76.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label76.Location = new System.Drawing.Point(431, 207);
+            this.label76.Name = "label76";
+            this.label76.Size = new System.Drawing.Size(61, 13);
+            this.label76.TabIndex = 362;
+            this.label76.Text = "First Lineup";
+            // 
+            // label77
+            // 
+            this.label77.AutoSize = true;
+            this.label77.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label77.Location = new System.Drawing.Point(324, 269);
+            this.label77.Name = "label77";
+            this.label77.Size = new System.Drawing.Size(38, 13);
+            this.label77.TabIndex = 362;
+            this.label77.Text = "Roster";
+            // 
+            // label78
+            // 
+            this.label78.AutoSize = true;
+            this.label78.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label78.Location = new System.Drawing.Point(371, 269);
+            this.label78.Name = "label78";
+            this.label78.Size = new System.Drawing.Size(54, 13);
+            this.label78.TabIndex = 362;
+            this.label78.Text = "Matchups";
+            // 
+            // label79
+            // 
+            this.label79.AutoSize = true;
+            this.label79.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label79.Location = new System.Drawing.Point(431, 269);
+            this.label79.Name = "label79";
+            this.label79.Size = new System.Drawing.Size(61, 13);
+            this.label79.TabIndex = 362;
+            this.label79.Text = "First Lineup";
+            // 
+            // label80
+            // 
+            this.label80.AutoSize = true;
+            this.label80.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label80.Location = new System.Drawing.Point(583, 57);
+            this.label80.Name = "label80";
+            this.label80.Size = new System.Drawing.Size(38, 13);
+            this.label80.TabIndex = 362;
+            this.label80.Text = "Roster";
+            // 
+            // label81
+            // 
+            this.label81.AutoSize = true;
+            this.label81.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label81.Location = new System.Drawing.Point(630, 57);
+            this.label81.Name = "label81";
+            this.label81.Size = new System.Drawing.Size(54, 13);
+            this.label81.TabIndex = 362;
+            this.label81.Text = "Matchups";
+            // 
+            // label82
+            // 
+            this.label82.AutoSize = true;
+            this.label82.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label82.Location = new System.Drawing.Point(690, 57);
+            this.label82.Name = "label82";
+            this.label82.Size = new System.Drawing.Size(61, 13);
+            this.label82.TabIndex = 362;
+            this.label82.Text = "First Lineup";
+            // 
+            // label83
+            // 
+            this.label83.AutoSize = true;
+            this.label83.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label83.Location = new System.Drawing.Point(583, 110);
+            this.label83.Name = "label83";
+            this.label83.Size = new System.Drawing.Size(38, 13);
+            this.label83.TabIndex = 362;
+            this.label83.Text = "Roster";
+            // 
+            // label84
+            // 
+            this.label84.AutoSize = true;
+            this.label84.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label84.Location = new System.Drawing.Point(630, 110);
+            this.label84.Name = "label84";
+            this.label84.Size = new System.Drawing.Size(54, 13);
+            this.label84.TabIndex = 362;
+            this.label84.Text = "Matchups";
+            // 
+            // label85
+            // 
+            this.label85.AutoSize = true;
+            this.label85.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label85.Location = new System.Drawing.Point(690, 110);
+            this.label85.Name = "label85";
+            this.label85.Size = new System.Drawing.Size(61, 13);
+            this.label85.TabIndex = 362;
+            this.label85.Text = "First Lineup";
+            // 
+            // label86
+            // 
+            this.label86.AutoSize = true;
+            this.label86.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label86.Location = new System.Drawing.Point(583, 164);
+            this.label86.Name = "label86";
+            this.label86.Size = new System.Drawing.Size(38, 13);
+            this.label86.TabIndex = 362;
+            this.label86.Text = "Roster";
+            // 
+            // label87
+            // 
+            this.label87.AutoSize = true;
+            this.label87.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label87.Location = new System.Drawing.Point(630, 164);
+            this.label87.Name = "label87";
+            this.label87.Size = new System.Drawing.Size(54, 13);
+            this.label87.TabIndex = 362;
+            this.label87.Text = "Matchups";
+            // 
+            // label88
+            // 
+            this.label88.AutoSize = true;
+            this.label88.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label88.Location = new System.Drawing.Point(690, 164);
+            this.label88.Name = "label88";
+            this.label88.Size = new System.Drawing.Size(61, 13);
+            this.label88.TabIndex = 362;
+            this.label88.Text = "First Lineup";
+            // 
+            // label89
+            // 
+            this.label89.AutoSize = true;
+            this.label89.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label89.Location = new System.Drawing.Point(583, 216);
+            this.label89.Name = "label89";
+            this.label89.Size = new System.Drawing.Size(38, 13);
+            this.label89.TabIndex = 362;
+            this.label89.Text = "Roster";
+            // 
+            // label90
+            // 
+            this.label90.AutoSize = true;
+            this.label90.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label90.Location = new System.Drawing.Point(630, 216);
+            this.label90.Name = "label90";
+            this.label90.Size = new System.Drawing.Size(54, 13);
+            this.label90.TabIndex = 362;
+            this.label90.Text = "Matchups";
+            // 
+            // label91
+            // 
+            this.label91.AutoSize = true;
+            this.label91.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label91.Location = new System.Drawing.Point(690, 216);
+            this.label91.Name = "label91";
+            this.label91.Size = new System.Drawing.Size(61, 13);
+            this.label91.TabIndex = 362;
+            this.label91.Text = "First Lineup";
+            // 
+            // label92
+            // 
+            this.label92.AutoSize = true;
+            this.label92.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label92.Location = new System.Drawing.Point(583, 269);
+            this.label92.Name = "label92";
+            this.label92.Size = new System.Drawing.Size(38, 13);
+            this.label92.TabIndex = 362;
+            this.label92.Text = "Roster";
+            // 
+            // label93
+            // 
+            this.label93.AutoSize = true;
+            this.label93.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label93.Location = new System.Drawing.Point(630, 269);
+            this.label93.Name = "label93";
+            this.label93.Size = new System.Drawing.Size(54, 13);
+            this.label93.TabIndex = 362;
+            this.label93.Text = "Matchups";
+            // 
+            // label94
+            // 
+            this.label94.AutoSize = true;
+            this.label94.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label94.Location = new System.Drawing.Point(690, 269);
+            this.label94.Name = "label94";
+            this.label94.Size = new System.Drawing.Size(61, 13);
+            this.label94.TabIndex = 362;
+            this.label94.Text = "First Lineup";
             // 
             // Form4
             // 
@@ -1779,8 +2142,6 @@
             this.Eastern.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
-            this.tabPage2.ResumeLayout(false);
-            this.tabPage2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
@@ -1796,6 +2157,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
+            this.tabPage2.ResumeLayout(false);
+            this.tabPage2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
@@ -1825,9 +2188,6 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.Label label23;
         private System.Windows.Forms.Label labeel5;
         private System.Windows.Forms.Label labeel4;
         private System.Windows.Forms.PictureBox pictureBox10;
@@ -1836,7 +2196,6 @@
         private System.Windows.Forms.PictureBox pictureBox12;
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.PictureBox pictureBox13;
-        private System.Windows.Forms.Label label27;
         private System.Windows.Forms.Label labeel3;
         private System.Windows.Forms.Label labeel2;
         private System.Windows.Forms.TextBox textBox12;
@@ -1846,9 +2205,6 @@
         private System.Windows.Forms.Label labeel1;
         private System.Windows.Forms.TextBox textBox13;
         private System.Windows.Forms.TextBox textBox15;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.PictureBox pictureBox3;
@@ -1857,19 +2213,14 @@
         private System.Windows.Forms.PictureBox pictureBox7;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.PictureBox pictureBox8;
-        private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.TextBox textBox7;
         private System.Windows.Forms.PictureBox pictureBox9;
-        private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.TextBox textBox9;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.PictureBox pictureBox2;
@@ -1878,12 +2229,10 @@
         private System.Windows.Forms.PictureBox pictureBox6;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.PictureBox pictureBox14;
-        private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label26;
         private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.PictureBox pictureBox16;
-        private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.Label label32;
         private System.Windows.Forms.TextBox textBox14;
@@ -1960,5 +2309,49 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label69;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.Label label24;
+        private System.Windows.Forms.Label label94;
+        private System.Windows.Forms.Label label91;
+        private System.Windows.Forms.Label label88;
+        private System.Windows.Forms.Label label85;
+        private System.Windows.Forms.Label label82;
+        private System.Windows.Forms.Label label79;
+        private System.Windows.Forms.Label label76;
+        private System.Windows.Forms.Label label73;
+        private System.Windows.Forms.Label label70;
+        private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.Label label93;
+        private System.Windows.Forms.Label label90;
+        private System.Windows.Forms.Label label87;
+        private System.Windows.Forms.Label label84;
+        private System.Windows.Forms.Label label81;
+        private System.Windows.Forms.Label label92;
+        private System.Windows.Forms.Label label23;
+        private System.Windows.Forms.Label label89;
+        private System.Windows.Forms.Label label78;
+        private System.Windows.Forms.Label label86;
+        private System.Windows.Forms.Label label75;
+        private System.Windows.Forms.Label label83;
+        private System.Windows.Forms.Label label72;
+        private System.Windows.Forms.Label label80;
+        private System.Windows.Forms.Label label35;
+        private System.Windows.Forms.Label label77;
+        private System.Windows.Forms.Label label28;
+        private System.Windows.Forms.Label label74;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label label71;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Label label31;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label3;
     }
 }

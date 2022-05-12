@@ -88,12 +88,6 @@
     <Compile Include="Team Detail.Designer.cs">
       <DependentUpon>Team Detail.cs</DependentUpon>
     </Compile>
-    <Compile Include="Team Main.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Team Main.Designer.cs">
-      <DependentUpon>Team Main.cs</DependentUpon>
-    </Compile>
     <Compile Include="Team.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -117,9 +111,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Team Detail.resx">
       <DependentUpon>Team Detail.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Team Main.resx">
-      <DependentUpon>Team Main.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

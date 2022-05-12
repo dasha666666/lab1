@@ -79,5 +79,30 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Form adminForm = new Form2();
+            adminForm.Show();
+            Hide();
+
+        }
+
+        private void label24_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label33_Click(object sender, EventArgs e)
+        {
+            Form adminForm = new Team_Detail();
+            adminForm.Show();
+        }
     }
 }
